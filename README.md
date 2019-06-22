@@ -15,5 +15,5 @@ In this project, I'll take a baseline installation of a Linux server and prepare
 
 ## Summary of software installed and configuration changes made
 
-- [x] Create a new Ubuntu Server Virtual Machine on [Azure Portal](http://portal.azure.com), (if you want to get started with Azure VM, check the [official documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/?WT.mc_id=AzPortal_VM_modern_CmdBar_DocLink).
+1. Create a new Ubuntu Server Virtual Machine on [Azure Portal](http://portal.azure.com), (if you want to get started with Azure VM, check the [official documentation](https://docs.microsoft.com/en-us/azure/virtual-machines/?WT.mc_id=AzPortal_VM_modern_CmdBar_DocLink). - [x]
 
