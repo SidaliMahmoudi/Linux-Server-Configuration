@@ -9,7 +9,7 @@ In this project, I'll take a baseline installation of a Linux server and prepare
 
 ## Server Infos
 
-- Server public IP address : [](40.76.76.121), SSH port : ```2200```
+- Server public IP address : ```40.76.76.121```, SSH port : ```2200```
 - Web application full [URL](http://udacity-catalog.eastus.cloudapp.azure.com)
 - To Connect to the server, use this command : ``` ssh -i grader_keys grader@40.76.76.121 -p 2200 ```
 
