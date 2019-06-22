@@ -49,6 +49,10 @@ In this project, I'll take a baseline installation of a Linux server and prepare
 
 - [x] 17. Set up a domain name for the server http://udacity-catalog.eastus.cloudapp.azure.com
 
+## Output
+
+<img src="Capture.PNG" width="800">
+
 ## Used resources
 
 - https://github.com/stueken/FSND-P5_Linux-Server-Configuration
